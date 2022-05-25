@@ -6,7 +6,9 @@ let one = "color combining";
 let two = "color deconstruction";
 let userChoice1 = (prompt("Welcome to color calculator. In this program 'one' means color combination and 'two' means color deconstruction, enter your choice: "));
 
+
 // code for color combining
+
 if (userChoice1 === "one"){
     let color1 = (prompt("Choose first basic color: "));
     let color2 = (prompt("Choose second basic color: "))
