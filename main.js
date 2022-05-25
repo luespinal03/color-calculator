@@ -37,8 +37,6 @@ let color3 = (prompt("Choose color you wish to deconstruct: "));
                 console.log("green comes out of blue + yellow");}
                 else{
                     console.log("error");
-                
-
             }
         }
 
